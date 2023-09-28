@@ -4,4 +4,4 @@
 
 Цель - построить модель, определяющую жанр музыки по нескольким ключевым параметрам.
 
-Инструменты: Python, библиотеки pandas, scikit-learn
+Инструменты: Python, библиотеки pandas, scikit-learn, matplotlib, catboost, lightgbm
